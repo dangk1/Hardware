@@ -1,4 +1,4 @@
-![IMG_20231121_221544](https://github.com/dangk1/Hardware/assets/57189623/eeddf47c-70f7-44cb-956c-dac5d65d4bdc)![IMG_20231109_063508](https://github.com/dangk1/Hardware/assets/57189623/88af5bd8-dc98-41fa-b802-7722e426270d)![Dang Open Core Enclosure 30x15 v4](https://github.com/dangk1/Hardware/assets/57189623/09194ded-7e93-46e8-9af1-8c9d158466ea)
+(https://github.com/dangk1/Hardware/assets/57189623/09194ded-7e93-46e8-9af1-8c9d158466ea)
 This is an All Button Controller that uses slightly modified OpenCore0 PCB design by TheTrain. You can find the original repository here: https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0
 
 The PCB is slightly modified to fit my personal taste for the layout and the placement of the 2 extra function buttons (dont like the placement on original design).
