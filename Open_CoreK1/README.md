@@ -1,5 +1,5 @@
 ![Dang Open Core Enclosure 30x15 v4](https://github.com/dangk1/Hardware/assets/57189623/09194ded-7e93-46e8-9af1-8c9d158466ea)
-This is a All Button Controller that uses slightly modified OpenCore0 PCB design by TheTrain. You can find the original repository here: https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0
+This is an All Button Controller that uses slightly modified OpenCore0 PCB design by TheTrain. You can find the original repository here: https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0
 The PCB is slightly modified to fit my personal taste for the layout and the placement of the 2 extra function buttons (dont like the placement on original design).
 Also removed the case leds as we go for larger enclosure which make case leds pointless.
 The enclosure was designed by myself in Fusion 360 and consist of 3D printed frame and insert held together by M2 Screws and heat inserts.
