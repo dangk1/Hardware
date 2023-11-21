@@ -26,6 +26,7 @@ If you wish to use the punk/sino low profile caps simply use 2mm top acrylic and
 Screws and heat inserts used:
 
 5x M2 3mm(length) 3,5mm(OD) heat inserts : https://www.aliexpress.com/item/1005005372220229.html
+
 5x M2 6mm screws : https://www.aliexpress.com/item/32968097507.html
 
 6x M4 : You can use any combination of M4 Chicago/Rivet screw you want. Just make sure they have correct length. (I used 16mm M4 screws with rivet nuts)
