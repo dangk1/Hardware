@@ -15,3 +15,10 @@ Total thickness is 1,8cm and if you add 2mm it will round up to be 2cm total.
 
 I used Gamerfinger HBFS-30 + HBFS-24 button caps because it's perfect height for the enclosure and I quite like them. THey feel better than the punk/sino low profile caps. (Difference between Punk and Gamerfingers with Kailh Choc V2 switches is that Punk caps have longer bottomming out and therefore also longer travel back to origin)
 If you wish to use the punk/sino low profile caps simply use 2mm top acrylic and reduce 3D printed Frame + Insert by 1mm height. (I have not tested this but should work fine)
+
+Screws and heat inserts used:
+
+5x M2 3mm(length) 3,5mm(OD) heat inserts : https://www.aliexpress.com/item/1005005372220229.html
+5x M2 6mm screws : https://www.aliexpress.com/item/32968097507.html
+
+6x M4 : You can use any combination of M4 Chicago/Rivet screw you want. Just make sure they have correct length. (I used 16mm M4 screws with rivet nuts)
