@@ -15,6 +15,7 @@ For the bottom I went with an 2mm acrylic plate but you can also use aluminium p
 And for the top we went with 3mm clear acrylic for the artwork finish.
 Dimensions are 30cm wide by 15cm height.
 Total thickness is 1,8cm and if you add 2mm it will round up to be 2cm total.
+![IMG_20231109_063344](https://github.com/dangk1/Hardware/assets/57189623/0a2446fc-4fcf-4cd1-b9d5-9d02267c0cec)
 
 I used Gamerfinger HBFS-30 + HBFS-24 button caps because it's perfect height for the enclosure and I quite like them. THey feel better than the punk/sino low profile caps. (Difference between Punk and Gamerfingers with Kailh Choc V2 switches is that Punk caps have longer bottomming out and therefore also longer travel back to origin)
 If you wish to use the punk/sino low profile caps simply use 2mm top acrylic and reduce 3D printed Frame + Insert by 1mm height. (I have not tested this but should work fine)
