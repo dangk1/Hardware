@@ -1,4 +1,5 @@
-STL Files for 3D Print
+STL Files for 3D Print.
+
 The 3D printed Frame and Insert is held together by heat inserts and M2 screws.
 I opted for a 1mm foam sheet between the PCB and Insert just because I have a laser and foam at home but its perfectly fine without the foam. 
 
