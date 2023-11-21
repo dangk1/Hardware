@@ -2,6 +2,8 @@
 This is an All Button Controller that uses slightly modified OpenCore0 PCB design by TheTrain. You can find the original repository here: https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0
 
 The PCB is slightly modified to fit my personal taste for the layout and the placement of the 2 extra function buttons (dont like the placement on original design).
+THey are now placed at outer right tactile switches (previously L3+R3).
+2 extra buttons on layout (L3+R3) to use with left pinky and right thumb.
 Also removed the case leds as this design is a larger enclosure which make case leds pointless.
 Pins on the PCB remained completely the same from original so you will not lose any functionality by flashing the original Open_Core0 firmware from GP2040-CE website.
 However as there are 2 more buttons and we removed the case leds the RGB order is slightly different.
