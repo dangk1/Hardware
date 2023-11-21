@@ -6,7 +6,7 @@ Also removed the case leds as this design is a larger enclosure which make case 
 Pins on the PCB remained completely the same from original so you will not lose any functionality by flashing the original Open_Core0 firmware from GP2040-CE website.
 However as there are 2 more buttons and we removed the case leds the RGB order is slightly different.
 I compiled my own firmware with correct RGB settings and also added the 2 extra buttons in the OLED screen layout.
-![Screenshot 2023-11-21 200427](https://github.com/dangk1/Hardware/assets/57189623/028d85d6-ee05-49e6-a6ea-8236bdceaed8)
+![Screenshot 2023-11-21 202011](https://github.com/dangk1/Hardware/assets/57189623/0dab9454-bb1d-43dc-8092-397478f0219c)
 
 The enclosure was designed by myself in Fusion 360 and consist of 3D printed frame and insert held together by M2 Screws and heat inserts.
 For the bottom I went with an 2mm acrylic plate but you can also use aluminium plate here.
