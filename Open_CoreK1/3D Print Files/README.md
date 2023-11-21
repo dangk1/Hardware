@@ -7,3 +7,7 @@ Aesthetically 1 piece for frame is ofcourse nicer but splitting frame in 2 is pe
 
 PS: The frame is a bit harder to print than your typical flatbox due to sheer size and mass (warping). If you are confident your 3D printer is tuned go ahead and print (YMMV) otherwise I suggest just having it print by a professional farm.
     If you go the split frame route, a bottom plate (either acrylic or aluminium) is a must. If you go 1 piece frame, bottom plate is optional which would reduce thickness overall although I would still suggest a bottomplate.
+![IMG_20231121_191922](https://github.com/dangk1/Hardware/assets/57189623/6e4a1b47-7f64-4584-9cd0-e709c4ed2ece)
+![IMG_20231121_165900](https://github.com/dangk1/Hardware/assets/57189623/e9adf802-992a-4469-8ee8-91f582414dfb)
+![IMG_20231121_165804](https://github.com/dangk1/Hardware/assets/57189623/1b9f03b2-7b96-4c29-ac3f-a8f445fceccf)
+![IMG_20231121_165722](https://github.com/dangk1/Hardware/assets/57189623/3ee59eac-0c63-463f-ab3e-49d8aa94c094)
