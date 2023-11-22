@@ -15,7 +15,7 @@ The enclosure was designed by myself in Fusion 360 and consist of 3D printed fra
 For the bottom I went with an 2mm acrylic plate but you can also use aluminium plate here.
 And for the top we went with 3mm clear acrylic for the artwork finish.
 Dimensions are 30cm wide by 15cm height. Comfortable for me to play in lap and centered jump button.
-Total thickness is 1,8cm and if you add 2mm it will round up to be 2cm total.
+Total thickness is 1,8cm and if you add 2mm foam sheet on bottom it will round up to be 2cm total.
 Total weight is 700g.
 ![IMG_20231109_063344](https://github.com/dangk1/Hardware/assets/57189623/0a2446fc-4fcf-4cd1-b9d5-9d02267c0cec)
 ![IMG_20231121_221512](https://github.com/dangk1/Hardware/assets/57189623/e1ef2613-ccb9-40ac-aac1-f9f35c38b3d5)
