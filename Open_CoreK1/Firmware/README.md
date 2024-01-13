@@ -6,9 +6,9 @@ To get into bootselect mode easily start by booting into web configurator.
 This can be done by holding START while plugging in the USB into PC.
 Enter the webconfigurator at http://192.168.7.1/
 Select REBOOT in the top left corner and choose BOOTSELECT.
-In your windows explorer a new disk drive LABELED RPI will be available.
+In your windows explorer a new disk drive LABELED RPI-RP2 will be available.
 Drag and drop the flash_nuke file into the drive. (the flash_nuke will act as hard reset settings).
-The controller will reboot itself and the RPI disk drive will be available again.
+The controller will reboot itself and the RPI-RP2 disk drive will be available again.
 Drag and drop the newest UF2 firmware file into the drive.
 After this the controller will automatically reboot with new firmware.
 
