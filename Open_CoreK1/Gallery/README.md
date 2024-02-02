@@ -7,3 +7,5 @@ Gallery of finished units
 ![IMG_20240112_140754](https://github.com/dangk1/Hardware/assets/57189623/b968768a-fc87-432c-8953-5bd3e7771000)
 ![IMG_20240113_164819](https://github.com/dangk1/Hardware/assets/57189623/c246ab7f-8aff-46d5-b1b2-0c528bbe9139)
 ![IMG_20240113_164841](https://github.com/dangk1/Hardware/assets/57189623/f3e25b96-7a7a-4e8e-bbd0-eadc38635cf6)
+![IMG_20240116_211507](https://github.com/dangk1/Hardware/assets/57189623/0d05435a-70ea-4ac4-a3a7-e2321248b65d)
+![IMG_20240116_211519](https://github.com/dangk1/Hardware/assets/57189623/ca732478-1fdc-43b2-a87f-c0717401fe51)
